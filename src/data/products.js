@@ -1,4 +1,4 @@
-export const products = [
+/*export const products = [
     {
     id:1,
     foto: "https://implanmed.com.ar/wp-content/uploads/2020/08/artroscopia-hombro-arpon-peek-02.jpg",
@@ -41,4 +41,4 @@ export const products = [
     precio: 0,
     category:"Peek",
 }
-];
+];*/
